@@ -38,6 +38,9 @@ Additionally, the following supplementary tables were created to enhance analysi
 - **Dim_Date Table** – For date-based analysis
 - **Time Bin Table** – Categorizes time into Morning, Late Morning, Afternoon, Evening, and Night
 
+## Data Model-
+![Screenshot 2025-02-08 181516](https://github.com/user-attachments/assets/95096c90-ae3f-4360-9832-50fe8aa839da)
+
 ## Steps Taken
 1. **Data Exploration** – Understanding dataset structure and contents
 2. **Data Cleaning** – Removing extra whitespaces and duplicates
