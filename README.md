@@ -7,7 +7,7 @@ This project was created as part of the **FP20 Analytics December 2024 Challenge
 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjgxMDU2MmItYzczZS00YWRhLWE3MGYtNjNjNzEzOWQ0N2E5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## LinkedIn Post
-[View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:12751070-7277576964494811136/)
+[View on LinkedIn]([https://www.linkedin.com/feed/update/urn:li:groupPost:12751070-7277576964494811136/](https://www.linkedin.com/feed/update/urn:li:activity:7277589250911477760?utm_source=share&utm_medium=member_desktop&rcm=ACoAACm_MdkBAINlDpBdpb0l7ExWMWsm7jLltdM))
 
 ## Dataset
 The dataset originates from a leading market research firm that collected detailed data on holiday sales, including customer demographics, purchase behaviors, promotional effectiveness, and satisfaction metrics. 
