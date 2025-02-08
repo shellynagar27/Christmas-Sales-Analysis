@@ -4,10 +4,10 @@
 This project was created as part of the **FP20 Analytics December 2024 Challenge**. It analyzes consumer behavior and sales trends during the Christmas season, leveraging **Power BI for visualization, Python and Power Query for exploratory data analysis (EDA), and Figma for UX design**. Freepik and Flaticon were used for icons.
 
 ## Live Dashboard
-[View Live Dashboard](#) *(Add your dashboard link here)*
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjgxMDU2MmItYzczZS00YWRhLWE3MGYtNjNjNzEzOWQ0N2E5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## LinkedIn Post
-[View on LinkedIn](#) *(Add your LinkedIn post link here)*
+[View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:12751070-7277576964494811136/)
 
 ## Dataset
 The dataset originates from a leading market research firm that collected detailed data on holiday sales, including customer demographics, purchase behaviors, promotional effectiveness, and satisfaction metrics. 
@@ -58,5 +58,6 @@ This project provides valuable insights into Christmas consumer behavior, enabli
 For more details, feel free to explore the repository and interact with the Power BI dashboard.
 
 🚀 Happy Analyzing!
-```
-
+- - - 
+## Future Enhancement
+Planning to improve the dashboard for better clarity and insights.
