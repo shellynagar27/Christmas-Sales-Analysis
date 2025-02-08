@@ -121,12 +121,18 @@ This Power BI report aims to answer the following questions:
 ## Conclusion
 This analysis reveals that while Christmas sales are strong, Black Friday consistently outperforms Christmas in total sales. Age, gender, and location influence product preferences, with Electronics and Toys being the most popular. Promotions have little impact on boosting sales, and shipping methods do not significantly affect customer satisfaction. Returns are fairly distributed across different weather conditions, with Toys, Electronics, and Clothing being the most frequently returned. To improve holiday sales, businesses should focus on personalized promotions, better regional marketing, and enhancing customer experience rather than relying solely on discounts. 🚀
 
----
-
-For more details, feel free to explore the repository and interact with the Power BI dashboard.
-
-🚀 Happy Analyzing!
-
-- - - 
+--- 
 ## Future Enhancement
-Planning to improve the dashboard for better clarity and insights.
+- Enhancing **UX design** for better interactivity
+- New insights to be addded.
+
+---
+🔍 For more details, feel free to explore the repository and interact with the Power BI dashboard.
+
+If you have any queries, suggestions, or feedback regarding this project, feel free to reach out.
+
+---
+## Author
+Shelly Nagar
+ - LinkedIn Profile-[https://www.linkedin.com/in/shellynagar/](https://www.linkedin.com/in/shellynagar/)
+ - Email- [shelly.nagar@outlook.com](mailto:shelly.nagar@outlook.com)
